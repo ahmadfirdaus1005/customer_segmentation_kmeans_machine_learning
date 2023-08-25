@@ -6,5 +6,6 @@ Let's practice the case study of the mall customers' dataset
 
 Dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
-Create customer segmentation using a machine learning algorithm (K-Means Clustering) in Python
-Who are the target customers for focusing on your strategy?
+- Create customer segmentation using a machine learning algorithm (K-Means Clustering) in Python
+  
+- Who are the target customers for focusing on your strategy?
